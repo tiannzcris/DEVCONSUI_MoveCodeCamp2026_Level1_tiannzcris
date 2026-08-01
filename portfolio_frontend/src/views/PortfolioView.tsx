@@ -69,7 +69,7 @@ const defaultPortfolioData = {
   name: "CRISTIAN NERO PONCE",
   course: "BS in Information Technology",
   school: "Infotech Development System Inc.",
-  about: "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+  about: "I enjoy learning new technologies, solving real-world problems, and continuously improving my programming skills by building projects that are both functional and user-friendly.",
   skills: [
     "Project Management",
     "Full Stack Development",
