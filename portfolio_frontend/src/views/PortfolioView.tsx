@@ -125,7 +125,7 @@ const PortfolioView = () => {
   // ==========================================================================
   // FETCH DATA FROM BLOCKCHAIN
   // ==========================================================================
-  useEffect(() => {
+  /*useEffect(() => {
     const fetchPortfolioData = async () => {
       try {
         setIsLoading(true);
@@ -198,8 +198,8 @@ const PortfolioView = () => {
       }
     };
 
-    fetchPortfolioData();
-  }, [objectId, currentNetwork]);
+    fetchPortfolioData(); 
+  }, [objectId, currentNetwork]); */
 
   // Helper function to truncate transaction ID for display
   const truncateTxId = (txId: string) => {
